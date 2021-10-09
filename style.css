@@ -1,0 +1,15 @@
+div{
+    display: block;
+    align-content: center;
+}
+h3{
+    align-content: center;
+}
+
+img{
+
+    width: 100px;
+    height: 100px;
+    float:inline-end;
+    margin: 10px;
+}
